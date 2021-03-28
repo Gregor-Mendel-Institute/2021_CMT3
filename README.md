@@ -11,4 +11,4 @@ ChIP and RNAseq analysis was based on nf-core curated pipline. However modificat
 
 **ChIP-Seq:** Modified from nf-core/chipseq v1.2.1 - Platinum Mole. <br/>
 **RNA-seq:** Used as is from nf-core/rnaseq v2.0 - Titanium Tiger. <br/>
-Rscripts for ploting 
+**Rscripts** for ploting asthetics.
