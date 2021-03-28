@@ -1,4 +1,4 @@
-# 2021_CMT3
+# Papareddy et al 2021
 
 Pipe lines or softwares used for data analysis in this papaer.<br/>
 
