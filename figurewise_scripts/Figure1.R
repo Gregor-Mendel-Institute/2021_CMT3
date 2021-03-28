@@ -180,7 +180,7 @@ boxplot(CHG.DMRs[,c(7:14)],outline=F,col=col,medcol="white",border="grey15",lty=
 
 ------ S 1A GO Analysis ------
 S1A ### GO Analysis
-int.genes <- names(weight[1:25])
+int.genes <- names(weight[1:50])
 int.genes <- factor(as.integer(all.genes %in% int.genes))
 names(int.genes) = all.genes
 GOdata <- new("topGOdata", ontology='BP', allGenes = int.genes, annot = annFUN.gene2GO, gene2GO = geneID2GO)
