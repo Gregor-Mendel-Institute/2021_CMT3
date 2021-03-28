@@ -5,7 +5,7 @@ Pipe lines or softwares used for data analysis in this papaer.<br/>
 **Content: ** <br/> 
 
 **MethylC-seq:** simple nextflow for methylation analysis wrote from scratch.<br/>
-Pipline for analysis MethylC-seq was wrote from scrate by simply assembling suite of softwares  into nextflow mode. Analysis workflow was described in methods section of Papareddy et al 2020 Genome bilogy. <br/>
+Pipline for MethylC-seq analysis was wrote from scrate by simply assembling suite of softwares  into nextflow mode. Analysis workflow was described in methods section of Papareddy et al 2020 Genome bilogy. <br/>
 
 ChIP and RNAseq analysis was based on nf-core curated pipline. However modifications were made to impiment piplines on VBC-HPC
 
